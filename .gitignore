@@ -1,0 +1,7 @@
+node_modules/
+.env
+.pushguard.json
+.env.example
+bun.lock
+dist/
+*.log
